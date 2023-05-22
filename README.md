@@ -18,3 +18,4 @@
 ## 技术支持
 1. [Element Plus](https://element-plus.gitee.io/zh-CN/)
 2. [TypeScript](http://typescript.p2hp.com/)
+3. [vue](https://vuejs.org/)
