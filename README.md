@@ -15,7 +15,7 @@
 6. 系统图标
     - 点击图标可回到首页
 
-## 技术支持
+## 技术栈
 1. [Element Plus](https://element-plus.gitee.io/zh-CN/)
 2. [TypeScript](http://typescript.p2hp.com/)
 3. [vue](https://vuejs.org/)
